@@ -20,3 +20,9 @@ preserving the historical context of divergent work.
 Rebasing, on the other hand, rewrites commit history by 
 reapplying your changes on top of a different base branch, 
 creating a linear history without merge commits.
+
+
+
+Q4: What are you looking forward to this semester?
+Answer: 
+Taking CMSC320 with my friends!
