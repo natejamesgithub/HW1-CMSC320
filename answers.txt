@@ -1,6 +1,10 @@
+Q1: Why might we consider using Git?
+Answer: 
+It is the industry standard for collaborative software engineering. 
+
 Q2: What field could data science be applied to? Give an Example.
-Answer:
-Data Science could be applied to Machine Learning and Artificial Intelligence. 
-This is because Data Science because data is essential for AI systems, which 
-are trained and improved using data science techniques to identify patterns, 
-make predictions, and build intelligent algorithms. 
+Answer: 
+Data Science could be applied to Machine Learning and Artificial Intelligence.
+This is because Data Science because data is essential for AI systems, which  
+are trained and improved using data science techniques to identify patterns,
+make predictions, and build intelligent algorithms.
